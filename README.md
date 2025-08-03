@@ -16,8 +16,6 @@
 <body>
   <h1>🧬 STRING Pathway Enrichment (Modular R Pipeline)</h1>
 
- 
-
   <h2>🔍 What it does</h2>
   <ul>
     <li>Automates gene-to-STRING ID mapping and enrichment retrieval</li>
