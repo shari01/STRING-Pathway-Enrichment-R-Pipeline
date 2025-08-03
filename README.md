@@ -52,9 +52,10 @@
 
   <h2>🧠 Developed By</h2>
   <p>
-    <strong>Sheryar Malik</strong><br>
-    Bioinformatics Scientist | Agentic AI Engineer<br>
-    Ayass Bioscience
+    <strong>Sheryar Malik</strong>
+   <br>
+    Bioinformatics Scientist <br>
+   
   </p>
 </body>
 </html>
