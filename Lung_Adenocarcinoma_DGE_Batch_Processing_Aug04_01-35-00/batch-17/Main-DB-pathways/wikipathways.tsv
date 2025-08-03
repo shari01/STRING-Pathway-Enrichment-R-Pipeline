@@ -1,0 +1,2 @@
+category	term	number_of_genes	number_of_genes_in_background	ncbiTaxonId	inputGenes	preferredNames	p_value	fdr	description
+WikiPathways	WP4758	6	45	9606	9606.ENSP00000200181,9606.ENSP00000262904,9606.ENSP00000347684,9606.ENSP00000360431,9606.ENSP00000362576,9606.ENSP00000377789	ITGB4,E2F3,LMX1B,PLCE1,YARS1,SYNPO	5.37e-06	0.0042	Nephrotic syndrome

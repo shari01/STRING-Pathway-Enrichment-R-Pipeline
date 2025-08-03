@@ -1,0 +1,101 @@
+Gene,Description
+INS,Encodes insulin; regulates glucose uptake.
+PDX1,Critical for pancreatic beta-cell development and insulin gene expression.
+MAFA,Regulates insulin transcription in beta cells.
+NKX6-1,Beta-cell differentiation and insulin gene regulation.
+NEUROD1,Transcription factor important for insulin gene expression.
+KCNJ11,Potassium channel; controls insulin secretion.
+ABCC8,Regulates ATP-sensitive potassium channels in beta cells.
+GLIS3,Required for beta-cell development and insulin gene transcription.
+ZFP57,Maintains DNA methylation; involved in beta-cell function.
+RFX6,Controls insulin secretion and beta-cell identity.
+INSR,Insulin receptor; initiates insulin signaling cascade.
+IRS1,Transduces insulin receptor signals for glucose uptake.
+IRS2,Promotes insulin action in liver and other tissues.
+AKT2,Key mediator of insulin signaling for glucose transport.
+PIK3R1,Part of PI3K pathway; regulates insulin effects.
+TBC1D4,Mediates insulin-stimulated glucose transport via GLUT4.
+SLC2A4,"Encodes GLUT4, insulin-regulated glucose transporter."
+SOCS3,Negative regulator of insulin signaling; induces resistance.
+PPARG,Nuclear receptor; regulates lipid metabolism and insulin sensitivity.
+FOXO1,Modulates insulin signaling and hepatic glucose production.
+FTO,Obesity-linked gene; indirectly impacts insulin resistance.
+MC4R,Appetite regulation; mutations associated with obesity and T2D.
+LEPR,Leptin receptor; involved in energy homeostasis and insulin resistance.
+ADIPOQ,"Encodes adiponectin, which enhances insulin sensitivity."
+FABP4,Fatty acid-binding protein; linked to insulin resistance.
+LPL,Lipoprotein lipase; influences lipid uptake and insulin action.
+APOE,Lipid transport; polymorphisms affect diabetes risk.
+SREBF1,Regulates lipogenesis and insulin response in liver.
+PLIN1,Involved in lipid storage; linked to insulin sensitivity.
+GCKR,Regulates glucokinase; modulates hepatic glucose metabolism.
+GCK,Catalyzes glucose phosphorylation; key in beta-cell glucose sensing.
+HK1,Hexokinase; involved in first step of glucose metabolism.
+SLC2A2,GLUT2 transporter; allows glucose entry into beta cells.
+ALDOB,Fructose metabolism enzyme; links to glycolysis.
+PFKL,Catalyzes rate-limiting step in glycolysis.
+PYGL,Liver glycogen phosphorylase; glucose release.
+PC,Pyruvate carboxylase; contributes to gluconeogenesis.
+PDHA1,Links glycolysis to TCA cycle; regulates energy supply.
+LDHA,Lactate production; altered in diabetic tissues.
+FBP1,Gluconeogenic enzyme; increased in insulin resistance.
+HLA-DRB1,Immune gene; strong risk allele for Type 1 diabetes.
+HLA-DQB1,Key Type 1 diabetes susceptibility gene.
+PTPN22,Autoimmune regulator gene in T1D.
+CTLA4,Immune checkpoint gene linked to T1D.
+IL2RA,IL-2 receptor gene; regulates T-cell tolerance.
+IFIH1,Viral RNA sensor; increases T1D risk.
+SH2B3,Immune-related signaling adaptor; T1D associated.
+TNFAIP3,Regulates NF-kB pathway and inflammation in T1D.
+STAT4,Mediates cytokine signaling; linked to T1D.
+TYK2,Kinase in interferon signaling; autoimmunity link.
+HNF1A,MODY3 gene; affects beta-cell function and insulin secretion.
+HNF4A,MODY1 gene; regulates genes for glucose metabolism.
+GATA6,Affects pancreatic development and insulin transcription.
+HNF1B,Linked to MODY5; affects renal and pancreatic development.
+ONECUT1,Controls pancreas-specific gene expression.
+MNX1,Influences islet cell identity.
+PAX4,Regulates beta-cell development and proliferation.
+ARX,Antagonist of PAX4 in pancreatic cell fate.
+NGN3,Essential for endocrine pancreas formation.
+SOX9,Influences endocrine cell differentiation.
+GCG,Encodes glucagon; regulates blood glucose.
+GCGR,Glucagon receptor; counteracts insulin.
+SST,Somatostatin; inhibits insulin and glucagon release.
+GIPR,GIP receptor; modulates insulin secretion post-meal.
+GLP1R,Receptor for GLP-1; boosts insulin secretion.
+PYY,Gut hormone; regulates appetite and glucose metabolism.
+POMC,Precursor of several metabolic hormones.
+NR3C1,Glucocorticoid receptor; affects insulin sensitivity.
+AVPR1B,Stress hormone receptor affecting glucose homeostasis.
+CPE,Processes proinsulin to active insulin.
+SOD2,Mitochondrial antioxidant enzyme; protects beta cells.
+GPX1,Detoxifies peroxides; altered in diabetes.
+NFE2L2,Transcription factor for antioxidant response.
+TXNIP,Inhibits insulin action and promotes beta-cell death.
+NLRP3,Inflammasome component; activated in diabetic inflammation.
+IL6,Pro-inflammatory cytokine; contributes to insulin resistance.
+TNF,Cytokine involved in systemic insulin resistance.
+MCP1,Recruits immune cells to adipose tissue in T2D.
+CXCL8,Inflammatory cytokine; upregulated in diabetes.
+RELA,NF-?B subunit; drives inflammation in diabetes.
+UCP2,Mitochondrial uncoupling protein; reduces insulin secretion.
+UCP3,May regulate lipid oxidation and insulin action.
+ATP5F1A,Mitochondrial ATP synthase; links to cellular energy.
+NDUFS1,Part of ETC; mutations affect energy and insulin.
+PPARGC1A,Regulates mitochondrial biogenesis and metabolism.
+CPT1A,Fatty acid oxidation gene; metabolic regulation.
+ACADM,Involved in fatty acid breakdown; links to diabetes risk.
+SIRT1,NAD-dependent deacetylase; enhances insulin sensitivity.
+MFN2,Mitochondrial fusion gene; controls metabolic homeostasis.
+TFAM,Maintains mitochondrial DNA; affects energy metabolism.
+TCF7L2,Most strongly linked gene to T2D; affects insulin secretion.
+KLF11,Transcription factor; regulates insulin promoter.
+ZNF804A,Zinc finger protein linked to diabetes via GWAS.
+MECP2,Epigenetic regulator; linked to beta-cell health.
+BCL11A,Transcriptional repressor with metabolic roles.
+EGR1,Immediate-early gene; modulates insulin gene transcription.
+ELF3,Transcription factor; links to inflammation in diabetes.
+MIR375,Regulates insulin secretion and beta-cell mass.
+DNMT1,DNA methyltransferase; epigenetic insulin control.
+HDAC9,Histone deacetylase; regulates insulin signaling genes.

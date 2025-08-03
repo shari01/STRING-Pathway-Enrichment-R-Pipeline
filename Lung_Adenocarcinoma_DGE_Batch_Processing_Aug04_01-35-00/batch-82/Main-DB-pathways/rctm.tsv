@@ -1,0 +1,2 @@
+category	term	number_of_genes	number_of_genes_in_background	ncbiTaxonId	inputGenes	preferredNames	p_value	fdr	description
+RCTM	HSA-210500	5	24	9606	9606.ENSP00000221485,9606.ENSP00000254976,9606.ENSP00000273258,9606.ENSP00000278379,9606.ENSP00000362399	SLC17A7,SNAP25,ARL6IP5,SLC1A2,STXBP1	5.14e-06	0.0117	Glutamate Neurotransmitter Release Cycle

@@ -1,0 +1,2 @@
+category	term	number_of_genes	number_of_genes_in_background	ncbiTaxonId	inputGenes	preferredNames	p_value	fdr	description
+WikiPathways	WP23	7	97	9606	9606.ENSP00000085219,9606.ENSP00000331602,9606.ENSP00000370912,9606.ENSP00000378974,9606.ENSP00000384675,9606.ENSP00000428924,9606.ENSP00000465039	CD22,PRKCD,TEC,MAPK8,SOS1,LYN,MAP4K1	2.22e-05	0.0173	B cell receptor signaling pathway

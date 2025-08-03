@@ -1,0 +1,2 @@
+category	term	number_of_genes	number_of_genes_in_background	ncbiTaxonId	inputGenes	preferredNames	p_value	fdr	description
+WikiPathways	WP4786	5	33	9606	9606.ENSP00000196061,9606.ENSP00000236040,9606.ENSP00000263556,9606.ENSP00000306253,9606.ENSP00000323696	PLOD1,P3H1,P4HA1,ITPR1,CRTAP	2.93e-05	0.0229	Type I collagen synthesis in the context of osteogenesis imperfecta

@@ -1,0 +1,2 @@
+category	term	number_of_genes	number_of_genes_in_background	ncbiTaxonId	inputGenes	preferredNames	p_value	fdr	description
+WikiPathways	WP2864	6	53	9606	9606.ENSP00000267101,9606.ENSP00000287842,9606.ENSP00000324173,9606.ENSP00000340019,9606.ENSP00000347134,9606.ENSP00000498071	ERBB3,NRG1,HSPA5,HSPD1,NET1,CARD14	2.33e-05	0.0182	Apoptosis-related network due to altered Notch3 in ovarian cancer
