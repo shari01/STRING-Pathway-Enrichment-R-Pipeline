@@ -5,7 +5,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>STRING Pathway Enrichment - R Modular Pipeline</title>
  
 </head>
 <body>
