@@ -6,12 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <title>STRING Pathway Enrichment - R Modular Pipeline</title>
-  <style>
-    body { font-family: 'Segoe UI', sans-serif; padding: 2rem; line-height: 1.6; color: #222; background-color: #f9f9f9; }
-    h1, h2 { color: #2c3e50; }
-    code { background: #eee; padding: 0.2em 0.4em; border-radius: 4px; }
-    .folder { font-family: monospace; background: #fff3cd; padding: 0.5em; border-left: 4px solid #ffc107; }
-  </style>
+ 
 </head>
 <body>
   <h1>🧬 STRING Pathway Enrichment (Modular R Pipeline)</h1>
